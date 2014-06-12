@@ -1,0 +1,1 @@
+/home/pi/Document/hellocv/CMakeFiles/dspimg.dir
